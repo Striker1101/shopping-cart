@@ -15,7 +15,7 @@ export default function Showcase(props) {
           onClick={() => {
             document.querySelector(".showcase").scrollLeft += 150;
           }}
-        >
+        > 
           {" "}
           left
         </button>
